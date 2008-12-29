@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.description = %q{strategy to authenticate users on per account basis}
   s.has_rdoc = true
   s.authors  = ["Hedley Robertson"]
-  s.files    = ["heedley-merb-auth-with-account.gemspec",
+  s.files    = ["merb-auth-with-account.gemspec",
                 "lib/merb-auth-with-account.rb",
                 "lib/merb-auth-with-account/strategies/password_form_with_account.rb",
                 "README.txt"
