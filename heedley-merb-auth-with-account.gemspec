@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name     = %q{heedley-merb-auth-with-account}
+  s.name     = %q{merb-auth-with-account}
   s.version  = "0.0.1"
   s.date     = %q{2008-12-23}
   s.summary  = %q{strategy to authenticate users on per account basis}
