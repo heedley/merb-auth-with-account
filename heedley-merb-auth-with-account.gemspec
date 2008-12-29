@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors  = ["Hedley Robertson"]
   s.files    = ["heedley-merb-auth-with-account.gemspec",
                 "lib/heedley-merb-auth-with-account.rb",
-                "lib/heedley-merb-auth-with-account/strategies/basic/password_form_with_account.rb",
+                "lib/heedley-merb-auth-with-account/strategies/password_form_with_account.rb",
                 "README.txt"
   ]
   s.rdoc_options = ["--main", "README.txt"]
